@@ -3,17 +3,20 @@
   # Pushkar Magdum
   💻 Web Development Intern | Open Source Enthusiast
   * I'm interested in every new project that gets my attention.
-  <br>
+
   * An Electronics and Computer Science student with interest in Web Development.
   <br>
   🧐 I write a neat and nice code.
   <br>
   🌱 I’m currently learning: `React`, `Node`, `AI`
   <br>
-  💬 Ask me about: **Web Development, AI, Open Source**
+  💬 Ask me about: <b> Web Development, AI, Open Source </b>
 
   # Contact
   <b>Gmail:</b> magdumpushkar@gmail.com
+  <br>
+  [LinkedIn](https://www.linkedin.com/in/pushkar-magdum-34a7b1246/)
+
 
   # My Projects
   1. <b>Library Management System:</b> Library Management System with authentication to login as admin or student/user.
