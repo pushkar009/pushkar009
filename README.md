@@ -1,12 +1,21 @@
 🖐️ Hi, I’m @pushkar009
   # About
-  * 🧐I write a neat and nice code.
-  * I'm interested in every new project that gets my
-attention.<br>
-  * An Electronics and Computer Science student with interest
-in Web Development.<br>
+  # Pushkar Magdum
+  💻 Web Development Intern | Open Source Enthusiast
+  * I'm interested in every new project that gets my attention.
+  <br>
+  * An Electronics and Computer Science student with interest in Web Development.
+  <br>
+  🧐 I write a neat and nice code.
+  <br>
+  🌱 I’m currently learning: `React`, `Node`, `AI`
+  <br>
+  💬 Ask me about: **Web Development, AI, Open Source**
+  <br>
+  📫 How to reach me: [LinkedIn](https://linkedin.com/in/pushkar-magdum-34a7b1246) | [Instagram](https://www.instagram.com/pushkarm_309)
+  
   # Contact
-  magdumpushkar@gmail.com
+  <b>Gmail:</b> magdumpushkar@gmail.com
 
   # My Projects
   1. <b>Library Management System:</b> Library Management System with authentication to login as admin or student/user.
