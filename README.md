@@ -24,6 +24,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=pushkar009&color=blue&style=flat&label=Profile+views)
 
+> "...but ready or not, life goes on."
+> -Sidney Sheldon
+
 <!---
 pushkar009/pushkar009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
