@@ -1,6 +1,5 @@
 🖐️ Hi, I’m @pushkar009
   # About
-  # Pushkar Magdum
   💻 Web Development Intern | Open Source Enthusiast
   * I'm interested in every new project that gets my attention.
 
