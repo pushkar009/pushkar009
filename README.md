@@ -11,6 +11,8 @@
   <br>
   💬 Ask me about: <b> Web Development, AI, Open Source </b>
 
+  Follow me on: ![Follow Me on GitHub](https://img.shields.io/github/followers/pushkar009?style=social)
+
   # Contact
   <b>Gmail:</b> magdumpushkar@gmail.com
 
