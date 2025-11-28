@@ -9,9 +9,9 @@
   <br>
   🧐 I write a neat and nice code.
   <br>
-  🌱 I’m currently learning: <b>React, Node, MongoDB</b>
+  🌱 I’m currently learning: <b>Next.js, Redux, Docker, CI/CD and some basic DevOps stuff</b>
   <br>
-  💬 Ask me about: <b> Web Development, Open Source, Cyber Security, AI </b>
+  💬 You can ask me about: <b> Web Development, Open Source, Cyber Security, AI, Automation </b>
 
   Follow me on: [Github](https://github.com/pushkar009)
   
