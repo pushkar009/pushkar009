@@ -36,6 +36,7 @@
   1. <b>Library Management System:</b> Library Management System with authentication to login as admin or student/user.
   2. <b>Departmental Website with API:</b> An API for departmental website which is used to update the data on the website like event details, timetables, student list etc. with python Django Framework.
   3. <b>Smart Room Assistant: </b>Currently working on developing a smart room assistant based on object detection and speech recognition that helps find things as well as act as a digital assistant.
+  4. <b>Store Rating App: </b>A full-stack Store Rating Platform built with React, Express.js, and PostgreSQL, featuring secure authentication and role-based dashboards for admins, users, and store owners. It enables store discovery, rating submission/modification, user and store management, filtering, and rating analytics through a responsive interface.
 
   ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pushkar009&limit=5&theme=dark&combine_all_yearly_contributions=true)
